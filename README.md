@@ -111,6 +111,10 @@ I’m an undergraduate Informatics student at Bandung Institute of Technology wi
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/rayhan-farrukh-a8510029a/)
 ![Discord](https://img.shields.io/badge/gwrozz%234576-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=50&duration=2000&pause=300&color=FF089F&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Thanks+for+visiting+my+page!+;See+you+soon!+)](https://git.io/typing-svg)
+</div>
 <!--
 **grwna/grwna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
