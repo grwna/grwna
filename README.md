@@ -1,4 +1,4 @@
-<h1> ✨ Welcome to my github page! ✨ </h1>
+<h1> 🌟 Hello and Welcome! 🌟 </h1>
 
 <div align="right">
 
