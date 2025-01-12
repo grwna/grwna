@@ -109,7 +109,7 @@ I’m an undergraduate Informatics student at Bandung Institute of Technology wi
 # 📬Contact Me At
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rayhanfarrukh/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayhan-farrukh-a8510029a/)
-![Discord](https://img.shields.io/badge/gwrozz%234576-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/gwrozz%234576-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 
 <div align=center>
