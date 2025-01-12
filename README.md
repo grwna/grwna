@@ -24,8 +24,8 @@ I’m an undergraduate Informatics student at Bandung Institute of Technology wi
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/grwna)
 [![CTFTime](https://img.shields.io/badge/ctftime-D62727?style=for-the-badge)](https://ctftime.org/team/357439)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=HackTheBox&logoColor=white)](https://ctf.hackthebox.com/user/profile/491873)
-[![CryptoHack](https://img.shields.io/badge/Cryptohack-F39C12?style=for-the-badge)](https://cryptohack.org/user/grwna/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=HackTheBox&logoColor=9FEF00)](https://ctf.hackthebox.com/user/profile/491873)
+[![CryptoHack](https://img.shields.io/badge/Cryptohack-F05125?style=for-the-badge&labelColor=F39C12)](https://cryptohack.org/user/grwna/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/grwna/)
 
 
