@@ -79,6 +79,10 @@ I’m an undergraduate Informatics student at Bandung Institute of Technology wi
   <a href="https://github.com/grwna/Algeo02-23035">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=grwna&repo=Algeo02-23035&theme=radical" />
   </a>
+  <span style="margin: 0 10px;"></span>
+  <a href="https://github.com/grwna/grwnapy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grwna&repo=grwnapy&theme=radical" />
+  </a>
 </div>
 
   <br>
