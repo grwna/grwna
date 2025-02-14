@@ -46,6 +46,14 @@ I’m an undergraduate Informatics student at Bandung Institute of Technology wi
 </div>
 <br>
 
+<h3>Tech Stacks & Frameworks</h3>
+<div>
+  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
+  
+</div>
+<br>
+
+
 <h3>Tools</h3>
 <div>
 
@@ -62,7 +70,6 @@ I’m an undergraduate Informatics student at Bandung Institute of Technology wi
 <div>
 
   [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
   [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
   [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
   [![Sagemath](https://img.shields.io/badge/sagemath-1E90FF?style=for-the-badge)](https://www.sagemath.org)
