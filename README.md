@@ -22,59 +22,66 @@ I’m an undergraduate Informatics student at Bandung Institute of Technology wi
 <br>
 <h3>My profiles</h3>
 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/grwna)
-[![CTFTime](https://img.shields.io/badge/ctftime-D62727?style=for-the-badge)](https://ctftime.org/team/357439)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=HackTheBox&logoColor=9FEF00)](https://ctf.hackthebox.com/user/profile/491873)
-[![CryptoHack](https://img.shields.io/badge/Cryptohack-F05125?style=for-the-badge&labelColor=F39C12)](https://cryptohack.org/user/grwna/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/grwna/)
+<div align="center">
 
+  [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/grwna)
+  [![CTFTime](https://img.shields.io/badge/ctftime-D62727?style=for-the-badge)](https://ctftime.org/team/357439)
+  [![HackTheBox](https://img.shields.io/badge/HackTheBox-0D1117?style=for-the-badge&logo=HackTheBox&logoColor=9FEF00)](https://ctf.hackthebox.com/user/profile/491873)
+  [![CryptoHack](https://img.shields.io/badge/Cryptohack-F05125?style=for-the-badge&labelColor=F39C12)](https://cryptohack.org/user/grwna/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/grwna/)
+
+</div>
 
 # 🛠️ Skills and Tools
 <h3>Programming Languages</h3>
-<div>
+<div align="center">
 
   [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
   [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
+  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+  [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+  [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
   [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
   [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
   [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org)
   [![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+
 </div>
 <br>
 
 <h3>Tech Stacks & Frameworks</h3>
-<div>
+<div align="center">
   
   [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev)
   [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-  
+  [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
+  [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+  [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org)
+  [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
+
 </div>
+
 <br>
 
 
 <h3>Tools</h3>
-<div>
+<div align="center">
 
   [![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
-  [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
-  [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
-  [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grwna)
+  [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)]()
+  [![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)](https://www.microsoft.com/en-us/software-download/windows11)
 
 </div>
 <br>
 
 <h3>Currently Learning</h3>
-<div>
+<div align="center">
 
-  [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-  [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-  [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
   [![Sagemath](https://img.shields.io/badge/sagemath-1E90FF?style=for-the-badge)](https://www.sagemath.org)
 
 </div>
@@ -87,12 +94,16 @@ I’m an undergraduate Informatics student at Bandung Institute of Technology wi
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=grwna&repo=cryptosystem-complexity-analysis&theme=radical" />
   </a>
   <span style="margin: 0 10px;"></span>
-  <a href="https://github.com/grwna/Algeo02-23035">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grwna&repo=Algeo02-23035&theme=radical" />
+  <a href="https://github.com/grwna/os-2025-siapbOSku">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grwna&repo=os-2025-siapbOSku&theme=radical" />
   </a>
   <span style="margin: 0 10px;"></span>
-  <a href="https://github.com/grwna/grwnapy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grwna&repo=grwnapy&theme=radical" />
+  <a href="https://github.com/grwna/tubes1-oop-owo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grwna&repo=tubes1-oop-owo&theme=radical" />
+  </a>
+  <span style="margin: 0 10px;"></span>
+  <a href="https://github.com/grwna/Praktikum-IF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=grwna&repo=Praktikum-IF&theme=radical" />
   </a>
 </div>
 
