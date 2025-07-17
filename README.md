@@ -123,7 +123,7 @@ I’m an undergraduate Informatics student at Bandung Institute of Technology wi
     </div>
     <!-- Language Stats -->
     <div style="margin-top: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grwna&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grwna&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
     </div>
 </div>
 
